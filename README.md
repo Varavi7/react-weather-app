@@ -6,7 +6,7 @@
 
 
 
-### Application Features.
+### Application Features
 
 1. Can track the atmospheric condition of any country or city.
 2. Can automatically track the weather of any saved location.
